@@ -2,6 +2,10 @@
 
 This repository contains the final master thesis presentation. The topic of my master thesis is "A deep learning based compensation of motion and multipath interfernce in Time-of-flight cameras"
 
+
+
+![title slide](title_slide.png)
+
 ## Thesis Abstract 
 Range-imaging is the vital technique to obtain the 3D information of the scene in vision systems. Time-of-flight is the range-imaging technology that has gained more scientific attention in recent years. The PMD (photonic mixer device) cameras reconstruct the depth of the observed scene based on the time-of-flight principle.
 
