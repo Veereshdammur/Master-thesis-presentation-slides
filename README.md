@@ -13,5 +13,5 @@ In this thesis, we attempt to compensate for the motion and multipath interferen
 
 We conducted two experiments (multi reflection and motion experiments) to compensate for the multipath interference and motion artifacts on the PMD camera pipeline. The evaluation of the multi reflection experiment described in the thesis shows that multipath interference can be adequately compensated on the PMD camera pipeline whereas, in the motion experiment, the model did not generalize on the test set. One possible reason for this behavior is due to the presence of occlusion pixels in the images. From these experiments, we can conclude that, with more real-world scenes for model training, we could improve the depth accuracy of the PMD camera using supervised learning approaches.
 
-
-![A typical snythentic scene taken from the FLAT dataset[Iuri+2018] is shown below.](synthentic_scene.gif)
+A typical snythentic scene taken from the FLAT dataset[Iuri+2018] is shown below.
+![](synthentic_scene.gif)
